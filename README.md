@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="alfbot" src ="https://user-images.githubusercontent.com/75715231/101639693-2d879b80-3a62-11eb-9416-4ec708b32442.jpg" width="320">
+    <img alt="alfbot" src ="https://github.com/Rdroid99/Bot-wa/blob/main/IMG-20201213-WA0026.jpg?raw=true" width="320">
     <h3> BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX </h3>
     <h4>Nama Bot</h4>
 # 
